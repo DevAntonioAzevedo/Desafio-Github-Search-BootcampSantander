@@ -2,7 +2,7 @@
 
 ## 🧠 Sobre o projeto:
 <p align="justify">Este projeto foi desenvolvido como parte de um desafio destinado aos alunos do Bootcamp Santander 2023 - Mobile Android com Kotlin no Android Studio.
-O principal objetivo deste desafio é explorar e aplicar os conceitos aprendidos no módulo de <strong>Infrodução ao Desenvolvimento Mobile com Kotlin</strong>.</p>
+O principal objetivo deste desafio é explorar e aplicar os conceitos aprendidos no módulo de <strong>Introdução ao Desenvolvimento Mobile com Kotlin</strong>.</p>
 
 ## 🌍 Objetivo do Projeto:
 <p align="justify">O objetivo principal deste projeto é aplicar os conhecimentos adquiridos ao longo do módulo, especialmente no que diz respeito a manipulação de Inteface e Layout de usuários, Manipulação de Entradas, Noções Básicas de Rede e Armazenamento de Dados.
