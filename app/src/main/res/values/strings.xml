@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitHub Search</string>
+    <string name="nome_usuario">Nome do usuário</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="sp_nome_usuario">NOME_USUARIO</string>
+    <string name="erro_api">Erro não identificado, tente novamente mais tarde!</string>
+    <string name="nova_consulta">Nova Consulta</string>
+</resources>
